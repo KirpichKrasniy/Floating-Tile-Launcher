@@ -1,0 +1,162 @@
+{
+  "grid_columns": 6,
+  "cell_size": 100,
+  "gap": 8,
+  "steamgriddb_api_key": "",
+  "hotkey": "CapsLock",
+  "locked": false,
+  "position": "center",
+  "language": "en",
+  "tiles": [
+    {
+      "id": "182fadce-7ee8-45f7-ac8b-aa74bf9b96f8",
+      "label": "Music",
+      "image_path": "builtin:1",
+      "app_path": "",
+      "grid_size": [
+        3,
+        2
+      ],
+      "grid_position": [
+        0,
+        0
+      ],
+      "color": "#e040fb"
+    },
+    {
+      "id": "617e2fdf-d2bb-446b-8210-a9a9f5c9d54b",
+      "label": "Files",
+      "image_path": "builtin:9",
+      "app_path": "",
+      "grid_size": [
+        1,
+        1
+      ],
+      "grid_position": [
+        3,
+        0
+      ],
+      "color": "#a3e635"
+    },
+    {
+      "id": "3b77ee71-c7e5-498d-88b3-f61797308e5d",
+      "label": "Code",
+      "image_path": "builtin:2",
+      "app_path": "",
+      "grid_size": [
+        2,
+        1
+      ],
+      "grid_position": [
+        4,
+        0
+      ],
+      "color": "#00bcd4"
+    },
+    {
+      "id": "affd8191-fd8b-472c-b7d7-a13a0052574f",
+      "label": "Mail",
+      "image_path": "builtin:7",
+      "app_path": "",
+      "grid_size": [
+        2,
+        1
+      ],
+      "grid_position": [
+        3,
+        1
+      ],
+      "color": "#ef5350"
+    },
+    {
+      "id": "623b34f0-6b2e-4279-8d9a-06bcb70dab08",
+      "label": "Chat",
+      "image_path": "builtin:5",
+      "app_path": "",
+      "grid_size": [
+        2,
+        3
+      ],
+      "grid_position": [
+        0,
+        2
+      ],
+      "color": "#26a69a"
+    },
+    {
+      "id": "a2746522-85e5-45e2-9d3b-4784872927d4",
+      "label": "Settings",
+      "image_path": "builtin:4",
+      "app_path": "",
+      "grid_size": [
+        1,
+        1
+      ],
+      "grid_position": [
+        5,
+        1
+      ],
+      "color": "#78909c"
+    },
+    {
+      "id": "715daaed-2241-4f74-8a93-54480f01ecb5",
+      "label": "Browser",
+      "image_path": "builtin:0",
+      "app_path": "",
+      "grid_size": [
+        2,
+        2
+      ],
+      "grid_position": [
+        2,
+        2
+      ],
+      "color": "#4285f4"
+    },
+    {
+      "id": "c9a049ba-4062-491c-9ee7-4733f1328a76",
+      "label": "Photos",
+      "image_path": "builtin:3",
+      "app_path": "",
+      "grid_size": [
+        4,
+        2
+      ],
+      "grid_position": [
+        2,
+        4
+      ],
+      "color": "#ff7043"
+    },
+    {
+      "id": "8d39552b-6376-47b7-adbb-d352201027d7",
+      "label": "Calendar",
+      "image_path": "builtin:8",
+      "app_path": "",
+      "grid_size": [
+        1,
+        2
+      ],
+      "grid_position": [
+        4,
+        2
+      ],
+      "color": "#fb923c"
+    },
+    {
+      "id": "e43fe949-b452-459d-a578-1f8ac17facaa",
+      "label": "Game",
+      "image_path": "builtin:6",
+      "app_path": "",
+      "grid_size": [
+        1,
+        2
+      ],
+      "grid_position": [
+        5,
+        2
+      ],
+      "color": "#7c4dff"
+    }
+  ]
+}
