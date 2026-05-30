@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🎮 Tile Launcher</h1>
+  <h1 align="center">Floating Tile Launcher</h1>
   <p align="center">
     A modern tile-based application launcher inspired by Windows 8.<br>
     Drag-and-drop grid, SteamGridDB covers, global hotkey, full localization.
