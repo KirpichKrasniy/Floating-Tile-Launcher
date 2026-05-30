@@ -15,6 +15,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KirpichKrasniy/Floating-Tile-Launcher/a77bcf35639d5de8f66d18298856a71b33e4dce9/nomacs_pDyKZBI9cc.jpg" alt="Python">
+</p>
+
 ## ⚡ Quick Start
 
 ```bash
@@ -22,9 +26,8 @@ pip install PySide6
 python main.py
 ```
 
-No extra dependencies. Just Python and PySide6.
 
----
+
 
 # 📖 Documentation (English)
 
