@@ -19,6 +19,13 @@
   <img src="https://raw.githubusercontent.com/KirpichKrasniy/Floating-Tile-Launcher/a77bcf35639d5de8f66d18298856a71b33e4dce9/nomacs_pDyKZBI9cc.jpg" alt="Python">
 </p>
 
+
+<p align="center">
+  <h1 align="center">YouTube Video:</h1>
+</p>
+
+[![YT](https://img.youtube.com/vi/Ib7YLjwEdE8/0.jpg)](https://www.youtube.com/watch?v=Ib7YLjwEdE8)
+
 ## ⚡ Quick Start
 
 ```bash
