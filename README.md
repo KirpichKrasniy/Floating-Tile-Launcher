@@ -160,13 +160,3 @@ Uses Win32 `RegisterHotKey()` + `QAbstractNativeEventFilter` to intercept `WM_HO
 
 **Drag-and-Drop** (`grid_manager.py`):
 Tile widget detects drag start (8px threshold), emits signal. GridManager captures mouse, moves widget freely, calculates grid snap position. On release: swap indices if dropped on tile, or direct move if dropped on empty space. `pack_tiles()` repacks after swap to prevent overlaps.
-
----
-
-## 📝 License
-
-MIT
-
-## 📝 Лицензия
-
-MIT
